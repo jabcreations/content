@@ -116,3 +116,4 @@ Try making rapid, repeated clicks on the button to increase the click count. If 
 - {{domxref("Element/mouseup_event", "mouseup")}}
 - {{domxref("Element/pointerdown_event", "pointerdown")}}
 - {{domxref("Element/pointerup_event", "pointerup")}}
+- [Creating and triggering custom events](/en-US/docs/Web/API/Document_Object_Model/Events#creating_and_dispatching_events)
